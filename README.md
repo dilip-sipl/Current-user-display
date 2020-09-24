@@ -7,7 +7,7 @@ Description: Current user display widget allows you to see the information of th
 ## Download & instalation
 1. Download and install widget:
     * Setup widget
-        * Clone this repostiory to your file system: https://github.com/dilip-sipl/Document-categories-widget
+        * Clone this repostiory to your file system: https://github.com/dilip-sipl/Current-user-display
         * Copy files to exact same structure in MVC project:
             * Views\Shared\Widgets\_CurrentUserDisplay.cshtml
             * Controllers\Widgets\CurrentUserDisplayWidgetController.cs
