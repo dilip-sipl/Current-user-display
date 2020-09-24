@@ -1,5 +1,5 @@
 # Kentico MVC Current User Display Widget
-Description: Current user display widget allows you to see the information of the currently logged in user.
+Description: Widget will display the property value of logged in user based on selected property name in widget configuration.
 
 ## Requirements
 * **Kentico 12.0.83** or later version is required to use this component.
