@@ -1,4 +1,4 @@
-# Kentico MVC Document Categories Widget
+# Kentico MVC Current User Display Widget
 Description: Current user display widget allows you to see the information of the currently logged in user.
 
 ## Requirements
